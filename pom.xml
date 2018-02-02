@@ -5,7 +5,7 @@
 
     <groupId>org.vaadin.erik</groupId>
     <artifactId>timer_bar</artifactId>
-    <version>1.0</version>
+    <version>1.0.1</version>
     <name>Timer Bar</name>
     <description>Integration of timer-bar for Vaadin 10</description>
 
