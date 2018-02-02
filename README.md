@@ -1,6 +1,6 @@
-# Game Card
+# Timer Bar
 
-Vaadin 10 Java integration of https://github.com/vpusher/game-card
+Vaadin 10 Java integration of https://github.com/eriklumme/timer-bar
 
 ## Development instructions
 
